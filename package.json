@@ -1,0 +1,23 @@
+{
+  "name": "open-objects",
+  "version": "1.0.0",
+  "description": "An application framework",
+  "main": "open-objects.js",
+  "scripts": {
+    "doc": "docco open-objects.js",
+    "test": "mocha"
+  },
+  "author": "Benoit Myard <myardbenoit@gmail.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "docco": "^0.7.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.6"
+  },
+  "dependencies": {
+    "backbone-events-standalone": "^0.2.7",
+    "underscore": "^1.8.3",
+    "yaml": "^0.3.0"
+  }
+}

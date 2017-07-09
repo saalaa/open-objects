@@ -1,0 +1,10 @@
+{
+  "node": true,
+  "esversion": 6,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "describe": true,
+    "it": true
+  }
+}
